@@ -6,4 +6,4 @@
 - Documentación de Linux: https://linux.die.net  
 
 
-[🔙 Volver al inicio](https://github.com/HoracioGG/Monitorizacion/blob/main/Inicio.md)
+[🔙 Volver al inicio](https://github.com/HoracioGG/Monitorizacion/blob/main/README.md)
