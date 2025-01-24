@@ -8,4 +8,4 @@ La monitorización es un aspecto clave en la administración de sistemas inform�
 
 Esta documentación detalla el uso de estas herramientas, con ejemplos y capturas.  
 
-[🔙 Volver al inicio](https://github.com/HoracioGG/Monitorizacion/blob/main/Inicio.md)
+[🔙 Volver al inicio](https://github.com/HoracioGG/Monitorizacion/blob/main/README.md)
