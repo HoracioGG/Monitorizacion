@@ -20,7 +20,7 @@ Opciones:
 ## 2. Comando `df`
 
 El comando `df` muestra una instantánea de los procesos en ejecución.
-![](https://github.com/HoracioGG/Monitorizacion/blob/main/img/df.png
+![](https://github.com/HoracioGG/Monitorizacion/blob/main/img/df.png)
 ### Sintaxis
 
 `df [opciones]`
