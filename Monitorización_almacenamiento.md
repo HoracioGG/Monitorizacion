@@ -5,6 +5,7 @@ De forma similar, incluirás comandos como `free`, `df`, `du` y `iostat`, con ex
 
 El comando `free` muestra información sobre el uso de la memoria RAM y swap.
 ![](https://github.com/HoracioGG/Monitorizacion/blob/main/img/free.png)
+
 ### Sintaxis
 
 `free [opciones]`
@@ -21,6 +22,7 @@ Opciones:
 
 El comando `df` muestra una instantánea de los procesos en ejecución.
 ![](https://github.com/HoracioGG/Monitorizacion/blob/main/img/df.png)
+
 ### Sintaxis
 
 `df [opciones]`
@@ -37,17 +39,26 @@ Opciones:
   
 ## 3. Comando `du`
 
-El comando `du` muestra una instantánea de los procesos en ejecución.
+El comando `du` calcula el espacio ocupado por directorios y archivos.
+![](
 
 ### Sintaxis
 
-`du [opciones]`
+`du [ruta] [opciones]`
 
 Opciones:
 
+- -h: Muestra el tamaño en un formato legible.
+![](
+- -s: Resume el uso total.
+![](
+- -d [nivel]: Especifica la profundidad del análisis.
+![](
+
 ## 4. Comando `iostat`
 
-El comando `iostat` muestra una instantánea de los procesos en ejecución.
+El comando `iostat` proporciona estadísticas sobre CPU y almacenamiento.
+![](https://github.com/HoracioGG/Monitorizacion/blob/main/img/iostat.png)
 
 ### Sintaxis
 
@@ -55,5 +66,11 @@ El comando `iostat` muestra una instantánea de los procesos en ejecución.
 
 Opciones:
 
+- -x: Muestra información extendida.
+![](https://github.com/HoracioGG/Monitorizacion/blob/main/img/iostat-x.png)
+- -d: Estadísticas de dispositivos.
+![](https://github.com/HoracioGG/Monitorizacion/blob/main/img/iostat-d.png)
+- -c: Estadísticas de CPU.
+![](https://github.com/HoracioGG/Monitorizacion/blob/main/img/iostat-c.png)
 
 [🔙 Volver al inicio](https://github.com/HoracioGG/Monitorizacion/blob/main/README.md)
