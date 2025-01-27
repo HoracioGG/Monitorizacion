@@ -40,7 +40,7 @@ Opciones:
 ## 3. Comando `du`
 
 El comando `du` calcula el espacio ocupado por directorios y archivos.
-![](
+![](https://github.com/HoracioGG/Monitorizacion/blob/main/img/du.png)
 
 ### Sintaxis
 
@@ -49,11 +49,10 @@ El comando `du` calcula el espacio ocupado por directorios y archivos.
 Opciones:
 
 - -h: Muestra el tamaño en un formato legible.
-![](
-- -s: Resume el uso total.
-![](
+![](https://github.com/HoracioGG/Monitorizacion/blob/main/img/du-h.png)
 - -d [nivel]: Especifica la profundidad del análisis.
-![](
+- -s: Resume el uso total.
+![](https://github.com/HoracioGG/Monitorizacion/blob/main/img/du-s.png)
 
 ## 4. Comando `iostat`
 
