@@ -8,5 +8,7 @@ La monitorización del rendimiento de un sistema operativo es una tarea fundamen
 
 Este documento describe las herramientas de monitorización más comunes y explica su uso, incluyendo opciones específicas y resultados obtenidos.
 
+![](https://github.com/HoracioGG/Monitorizacion/blob/main/img/Foto%20introduccion.jpg)
+
 [🔙 Volver al inicio](https://github.com/HoracioGG/Monitorizacion/blob/main/README.md)
 
