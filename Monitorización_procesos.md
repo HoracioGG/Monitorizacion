@@ -55,7 +55,12 @@ Opciones:
 ![](https://github.com/HoracioGG/Monitorizacion/blob/main/img/htop-u.png)
 
 - htop --tree: Muestra los procesos en formato de árbol.
+
+![](https://github.com/HoracioGG/Monitorizacion/blob/main/img/htop--tree.png)
+
 - htop -p <PID1,PID2>: Filtra por varios PIDs.
+
+![](https://github.com/HoracioGG/Monitorizacion/blob/main/img/htop-p.png)
 
 Atajos de teclado:
 
