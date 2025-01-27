@@ -1,11 +1,12 @@
 # Introducción
 
-La monitorización es un aspecto clave en la administración de sistemas informáticos y redes. Su objetivo es garantizar el rendimiento, la estabilidad y la seguridad de los servidores. Linux proporciona herramientas avanzadas de línea de comandos para monitorizar aspectos como:
+La monitorización del rendimiento de un sistema operativo es una tarea fundamental en la administración de sistemas informáticos y redes. Permite identificar problemas de rendimiento, garantizar la estabilidad de los servicios y resolver posibles fallos antes de que impacten en los usuarios. En entornos Linux, existe una amplia variedad de comandos en línea que permiten supervisar tanto los procesos del sistema como el almacenamiento, uso de red y rendimiento general.
 
 - Procesos  
 - Almacenamiento (CPU, memoria, uso de disco)  
 - Red  
 
-Esta documentación detalla el uso de estas herramientas, con ejemplos y capturas.  
+Este documento describe las herramientas de monitorización más comunes y explica su uso, incluyendo opciones específicas y resultados obtenidos.
 
 [🔙 Volver al inicio](https://github.com/HoracioGG/Monitorizacion/blob/main/README.md)
+
