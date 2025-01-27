@@ -6,6 +6,8 @@ En esta sección se abordan herramientas para monitorizar los procesos de un sis
 
 El comando `ps` muestra una instantánea de los procesos en ejecución.
 
+![](https://github.com/HoracioGG/Monitorizacion/blob/main/img/ps.png)
+
 ### Sintaxis
 
 `ps [opciones]`
@@ -49,6 +51,9 @@ El comando `htop` es una versión mejorada de top, con una interfaz más amigabl
 Opciones:
 
 - htop -u : Muestra los procesos de un usuario específico.
+
+![](https://github.com/HoracioGG/Monitorizacion/blob/main/img/htop-u.png)
+
 - htop --tree: Muestra los procesos en formato de árbol.
 - htop -p <PID1,PID2>: Filtra por varios PIDs.
 
