@@ -1,5 +1,5 @@
 # Monitorización almacenamiento
-De forma similar, incluirás comandos como `free`, `df`, `du` y `iostat`, con explicaciones, capturas y comentarios.
+Este apartado incluye comandos como `free`, `df`, `du` y `iostat`, con explicaciones, capturas y comentarios.
 
 ## 1. Comando `free`
 
